@@ -48,33 +48,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### `FEATURED`
-
-<a href="https://github.com/FastXSkyline/SkylinePCCHECK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FastXSkyline&repo=SkylinePCCHECK&hide_border=true&bg_color=090909&title_color=FF2D2D&icon_color=FF2D2D&text_color=BDBDBD" />
-</a>
-
-<a href="https://github.com/FastXSkyline/SkylineEngine-AntiCheat-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FastXSkyline&repo=SkylineEngine-AntiCheat-Dashboard&hide_border=true&bg_color=090909&title_color=FF2D2D&icon_color=FF2D2D&text_color=BDBDBD" />
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FastXSkyline&bg_color=090909&color=BDBDBD&line=FF2D2D&point=FFFFFF&area=true&hide_border=true&custom_title=ACTIVITY" />
-
-<br>
-
-<a href="https://github.com/FastXSkyline?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-FF2D2D?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<sub>FAST X · SKYLINEENGINE</sub>
-
-</div>
