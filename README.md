@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/FastXSkyline">
-  <img src="./profile-banner.svg" width="100%" alt="FAST X"/>
+  <img src="./skyline banner github.png" width="100%" alt="FAST X"/>
 </a>
 
 <br/>
