@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="82" viewBox="0 0 900 82" role="img" aria-labelledby="title desc">
-<title id="title">FastX development badges</title>
-<desc id="desc">Five dark red-accented badges for Fast X, desktop apps, C++ development, frontend, and UI design.</desc>
+<title id="title">FastX development focus</title>
+<desc id="desc">Five distinct focus badges: FastX, C++ development, desktop applications, web dashboards, and backend APIs.</desc>
 <defs>
   <filter id="iconGlow" x="-100%" y="-100%" width="300%" height="300%">
-    <feGaussianBlur stdDeviation="2.5" result="blur"/>
-    <feFlood flood-color="#ff2d2d" flood-opacity=".95" result="red"/>
+    <feGaussianBlur stdDeviation="2.4" result="blur"/>
+    <feFlood flood-color="#ff2d2d" flood-opacity=".9" result="red"/>
     <feComposite in="red" in2="blur" operator="in" result="halo"/>
     <feMerge><feMergeNode in="halo"/><feMergeNode in="halo"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
@@ -23,30 +23,30 @@
   <g>
     <rect x="188" y="12" width="166" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
     <g transform="translate(202 32) scale(.68)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
-      <rect x="0" y="0" width="28" height="21" rx="3"/><path d="M8 27 H20 M14 21 V27 M8 7 H20"/>
+      <path d="M10 3 L2 12 L10 21 M18 3 L26 12 L18 21 M16 0 L12 24"/>
     </g>
-    <text x="231" y="47" fill="#f3f3f3" font-size="11.5" letter-spacing=".25">DESKTOP APPS</text>
+    <text x="231" y="47" fill="#f3f3f3" font-size="12.2" letter-spacing=".25">C++ DEVELOPMENT</text>
   </g>
   <g>
     <rect x="369" y="12" width="166" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
-    <g transform="translate(383 32) scale(.68)" fill="none" stroke="#ff3838" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
-      <path d="M10 3 L2 12 L10 21 M18 3 L26 12 L18 21 M16 0 L12 24"/>
+    <g transform="translate(383 32) scale(.68)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
+      <rect x="0" y="0" width="28" height="21" rx="3"/><path d="M8 27 H20 M14 21 V27 M8 7 H20"/>
     </g>
-    <text x="414" y="47" fill="#f3f3f3" font-size="13" letter-spacing=".35">C++ DEV</text>
+    <text x="414" y="47" fill="#f3f3f3" font-size="11.7" letter-spacing=".1">DESKTOP APPS</text>
   </g>
   <g>
     <rect x="550" y="12" width="166" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
     <g transform="translate(564 32) scale(.68)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
-      <rect x="0" y="1" width="28" height="24" rx="3"/><path d="M0 8 H28 M7 5 H7.5 M12 5 H12.5 M8 14 L5 17 L8 20 M15 14 L18 17 L15 20"/>
+      <rect x="0" y="1" width="28" height="24" rx="3"/><path d="M0 8 H28 M8 14 L5 17 L8 20 M15 14 L18 17 L15 20"/>
     </g>
-    <text x="595" y="47" fill="#f3f3f3" font-size="12.5" letter-spacing=".25">FRONTEND</text>
+    <text x="595" y="47" fill="#f3f3f3" font-size="12" letter-spacing=".15">WEB DASHBOARDS</text>
   </g>
   <g>
     <rect x="731" y="12" width="162" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
     <g transform="translate(745 32) scale(.68)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
-      <path d="M3 22 L5 14 L19 0 L27 8 L13 22 Z"/><path d="M16 3 L24 11 M5 14 L13 22"/>
+      <path d="M3 5 H27 V23 H3 Z M3 10 H27 M9 15 H14 M9 19 H20"/><path d="M8 0 V5 M22 0 V5"/>
     </g>
-    <text x="775" y="47" fill="#f3f3f3" font-size="12.5" letter-spacing=".15">UI DESIGN</text>
+    <text x="775" y="47" fill="#f3f3f3" font-size="11.8" letter-spacing=".1">BACKEND / APIs</text>
   </g>
 </g>
 </svg>
