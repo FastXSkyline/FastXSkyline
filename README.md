@@ -12,16 +12,16 @@
 <br><br>
 
 <a href="https://github.com/FastXSkyline">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FastXSkyline&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=090909&title_color=FF2D2D&icon_color=FF2D2D&text_color=BDBDBD" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FastXSkyline&show_icons=true&hide_border=false&border_radius=16&border_color=FF2D2D&include_all_commits=true&count_private=true&bg_color=090909&title_color=FF2D2D&icon_color=FF2D2D&text_color=BDBDBD" alt="FastX GitHub stats"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/FastXSkyline">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastXSkyline&layout=compact&hide_border=true&langs_count=8&bg_color=090909&title_color=FF2D2D&text_color=BDBDBD" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastXSkyline&layout=compact&hide_border=false&border_radius=16&border_color=FF2D2D&langs_count=8&bg_color=090909&title_color=FF2D2D&text_color=BDBDBD" alt="Top languages"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FastXSkyline&hide_border=true&background=090909&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=BDBDBD&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FastXSkyline&hide_border=false&border=FF2D2D&background=090909&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=BDBDBD&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak stats"/>
 
 </div>
 
@@ -33,8 +33,8 @@
 
 ### `BUILDING`
 
-**Windows Tools**
-**Security Systems**
+**Windows Tools**  
+**Security Systems**  
 **Custom Interfaces**
 
 </td>
@@ -43,7 +43,7 @@
 
 ### `STACK`
 
-<img src="https://skillicons.dev/icons?i=cpp,windows,cmake,js,html,css,cloudflare,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,windows,cmake,js,html,css,cloudflare,git,github&theme=dark" alt="Tech stack"/>
 
 </td>
 </tr>
