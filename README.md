@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./assets/neon-buttons.svg" width="900" alt="FastX glowing red neon badges"/>
+<img src="./assets/neon-buttons.svg?v=37f50d3" width="900" alt="FastX glowing red neon badges"/>
 
 <br><br>
 
