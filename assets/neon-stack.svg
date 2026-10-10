@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76">
+<defs><filter id="g" x="-80%" y="-100%" width="260%" height="300%"><feGaussianBlur stdDeviation="3.5" result="b"/><feFlood flood-color="#ff2525" flood-opacity=".95"/><feComposite in2="b" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="900" height="76" fill="#090909" fill-opacity="0"/>
+<g stroke="#ff3434" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)">
+<g transform="translate(18 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><path d="M20 14 l-8 8 8 8 M34 14 l8 8 -8 8 M31 11 l-8 26"/></g>
+<g transform="translate(113 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><path d="M11 11 h14 v10 h-14z M29 11 h14 v10 h-14z M11 23 h14 v10 h-14z M29 23 h14 v10 h-14z"/></g>
+<g transform="translate(208 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><text x="27" y="29" fill="#ff4545" stroke="none" font-family="Arial,sans-serif" font-weight="700" font-size="19" text-anchor="middle">C++</text></g>
+<g transform="translate(303 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><text x="27" y="29" fill="#ff4545" stroke="none" font-family="Arial,sans-serif" font-weight="700" font-size="18" text-anchor="middle">JS</text></g>
+<g transform="translate(398 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><path d="M14 11 h26 l-3 23 -10 4 -10 -4z M19 18 h16 M20 24 h14" /></g>
+<g transform="translate(493 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><path d="M15 13 h24 l-2 21 -10 4 -10 -4z M20 20 h13 M20 26 h10"/></g>
+<g transform="translate(588 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><path d="M14 30 h27 a7 7 0 0 0 0 -14 11 11 0 0 0 -21 -2 8 8 0 0 0 -6 16z"/></g>
+<g transform="translate(683 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><circle cx="27" cy="22" r="12"/><path d="M27 10 v24 M15 22 h24 M19 14 l16 16 M35 14 l-16 16"/></g>
+<g transform="translate(778 16)"><rect x="0" y="0" width="54" height="44" rx="10" fill="#101010" stroke-opacity=".75"/><path d="M18 14 l-7 8 7 8 M36 14 l7 8 -7 8 M33 11 l-8 25"/></g>
+</g></svg>
