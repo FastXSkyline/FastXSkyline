@@ -4,10 +4,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FAST_X-FF2D2D?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SOFTWARE-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SECURITY-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SYSTEMS-111111?style=for-the-badge" />
+<img src="./assets/neon-buttons.svg" width="900" alt="FastX glowing red neon badges"/>
 
 <br><br>
 
@@ -43,7 +40,7 @@
 
 ### `STACK`
 
-<img src="https://skillicons.dev/icons?i=cpp,windows,cmake,js,html,css,cloudflare,git,github&theme=dark" alt="Tech stack"/>
+<img src="./assets/neon-stack.svg" width="900" alt="Technology icons with red neon glow"/>
 
 </td>
 </tr>
