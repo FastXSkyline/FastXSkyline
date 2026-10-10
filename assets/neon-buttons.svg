@@ -2,9 +2,9 @@
 <title id="title">FastX profile badges</title>
 <desc id="desc">Four rounded dark badges for Fast X, Software, Security, and Systems, with clean red icons and no outer border glow.</desc>
 <defs>
-  <filter id="iconGlow" x="-70%" y="-70%" width="240%" height="240%">
-    <feGaussianBlur stdDeviation="1.5" result="blur"/>
-    <feFlood flood-color="#ff2d2d" flood-opacity=".62" result="red"/>
+  <filter id="iconGlow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="2.8" result="blur"/>
+    <feFlood flood-color="#ff2d2d" flood-opacity=".9" result="red"/>
     <feComposite in="red" in2="blur" operator="in" result="halo"/>
     <feMerge><feMergeNode in="halo"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
@@ -15,7 +15,7 @@
 <g font-family="Segoe UI,Arial,sans-serif" font-weight="700">
   <g>
     <rect x="7" y="12" width="210" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
-    <g transform="translate(23 27)" fill="none" stroke="#ff3838" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
+    <g transform="translate(26 30) scale(0.82)" fill="none" stroke="#ff3838" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
       <path d="M1 3 H10 L4 12 H13 L5 24"/>
       <path d="M17 3 L25 12 L17 21"/>
     </g>
@@ -23,7 +23,7 @@
   </g>
   <g>
     <rect x="235" y="12" width="210" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
-    <g transform="translate(251 26)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
+    <g transform="translate(255 29) scale(0.82)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
       <rect x="0" y="0" width="27" height="21" rx="3"/>
       <path d="M8 27 H19 M13.5 21 V27 M10 7 L6 10.5 L10 14 M17 7 L21 10.5 L17 14"/>
     </g>
@@ -31,7 +31,7 @@
   </g>
   <g>
     <rect x="463" y="12" width="210" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
-    <g transform="translate(480 24)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
+    <g transform="translate(484 28) scale(0.82)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
       <path d="M13 1 L25 5 V14 C25 22 19 28 13 31 C7 28 1 22 1 14 V5 Z"/>
       <path d="M7 15 L11 19 L19 10"/>
     </g>
@@ -39,7 +39,7 @@
   </g>
   <g>
     <rect x="691" y="12" width="202" height="58" rx="12" fill="#101010" stroke="url(#edge)" stroke-width="1.2"/>
-    <g transform="translate(708 26)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
+    <g transform="translate(712 30) scale(0.82)" fill="none" stroke="#ff3838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)">
       <rect x="0" y="0" width="26" height="8" rx="2"/>
       <rect x="0" y="12" width="26" height="8" rx="2"/>
       <path d="M6 4 H7 M6 16 H7 M20 4 H22 M20 16 H22"/>
