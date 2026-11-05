@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="299" viewBox="0 0 860 299" role="img" aria-label="Most used programming languages">
+<style>
+    .bg{fill:#ffffff;stroke:#d0d7de}.title{fill:#1f2328}
+    .muted{fill:#59636e}.value{fill:#1f2328}
+    @media(prefers-color-scheme:dark){
+      .bg{fill:#0d1117;stroke:#30363d}.title,.value{fill:#e6edf3}
+      .muted{fill:#8b949e}
+    }text{font-family:Arial,Helvetica,sans-serif}.title{font-size:19px;font-weight:700}.label{fill:#1f2328;font-size:13px}@media(prefers-color-scheme:dark){.label{fill:#e6edf3}}</style>
+<rect class="bg" x="1" y="1" width="858" height="297" rx="10"/>
+<text class="title" x="28" y="38">Most used languages</text>
+<defs><clipPath id="bar"><rect x="28" y="63" width="804" height="9" rx="4"/></clipPath></defs>
+<g clip-path="url(#bar)"><rect x="28" y="68" width="681.2255280403961" height="9" fill="#3178c6"/><rect x="709.2255280403961" y="68" width="103.55183513627215" height="9" fill="#663399"/><rect x="812.7773631766682" y="68" width="14.268220566730983" height="9" fill="#f1e05a"/><rect x="827.0455837433992" y="68" width="4.555814432965119" height="9" fill="#3572A5"/><rect x="831.6013981763643" y="68" width="1" height="9" fill="#8b949e"/><rect x="831.7569423174787" y="68" width="1" height="9" fill="#89e051"/><rect x="831.8866156671551" y="68" width="1" height="9" fill="#e34c26"/></g><circle cx="34" cy="104" r="5" fill="#3178c6"/><text class="label" x="48" y="108">TypeScript</text><text class="muted" x="820" y="108" text-anchor="end">84.7%</text><circle cx="34" cy="129" r="5" fill="#663399"/><text class="label" x="48" y="133">CSS</text><text class="muted" x="820" y="133" text-anchor="end">12.9%</text><circle cx="34" cy="154" r="5" fill="#f1e05a"/><text class="label" x="48" y="158">JavaScript</text><text class="muted" x="820" y="158" text-anchor="end">1.8%</text><circle cx="34" cy="179" r="5" fill="#3572A5"/><text class="label" x="48" y="183">Python</text><text class="muted" x="820" y="183" text-anchor="end">0.6%</text><circle cx="34" cy="204" r="5" fill="#8b949e"/><text class="label" x="48" y="208">Batchfile</text><text class="muted" x="820" y="208" text-anchor="end">0.0%</text><circle cx="34" cy="229" r="5" fill="#89e051"/><text class="label" x="48" y="233">Shell</text><text class="muted" x="820" y="233" text-anchor="end">0.0%</text><circle cx="34" cy="254" r="5" fill="#e34c26"/><text class="label" x="48" y="258">HTML</text><text class="muted" x="820" y="258" text-anchor="end">0.0%</text>
+</svg>
