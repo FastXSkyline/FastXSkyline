@@ -47,17 +47,13 @@ async function main() {
 
   const styles = `
     text{font-family:Arial,Helvetica,sans-serif}
-    .bg{fill:#ffffff;stroke:#d0d7de}
-    .title{fill:#1f2328;font-size:27px;font-weight:700}
-    .muted{fill:#59636e;font-size:16px}
-    .value{fill:#1f2328;font-size:36px;font-weight:700}
-    .label{fill:#1f2328;font-size:19px;font-weight:600}
+    .bg{fill:#0D1117;stroke:#30363D}
+    .title{fill:#F0F2F5;font-size:27px;font-weight:700}
+    .muted{fill:#C9D1D9;font-size:16px}
+    .value{fill:#F0F2F5;font-size:36px;font-weight:700}
+    .label{fill:#F0F2F5;font-size:19px;font-weight:600}
     .accent{fill:${accent}}
-    @media(prefers-color-scheme:dark){
-      .bg{fill:#0d1117;stroke:#30363d}
-      .title,.value,.label{fill:#f0f2f5}
-      .muted{fill:#a1aab5}
-    }`;
+  `;
 
   const statsWidth = 1200;
   const statsHeight = 250;
