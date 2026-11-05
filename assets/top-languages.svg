@@ -1,17 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="387" viewBox="0 0 1200 387" role="img" aria-label="Most used programming languages">
 <style>
     text{font-family:Arial,Helvetica,sans-serif}
-    .bg{fill:#ffffff;stroke:#d0d7de}
-    .title{fill:#1f2328;font-size:27px;font-weight:700}
-    .muted{fill:#59636e;font-size:16px}
-    .value{fill:#1f2328;font-size:36px;font-weight:700}
-    .label{fill:#1f2328;font-size:19px;font-weight:600}
+    .bg{fill:#0D1117;stroke:#30363D}
+    .title{fill:#F0F2F5;font-size:27px;font-weight:700}
+    .muted{fill:#C9D1D9;font-size:16px}
+    .value{fill:#F0F2F5;font-size:36px;font-weight:700}
+    .label{fill:#F0F2F5;font-size:19px;font-weight:600}
     .accent{fill:#FF2323}
-    @media(prefers-color-scheme:dark){
-      .bg{fill:#0d1117;stroke:#30363d}
-      .title,.value,.label{fill:#f0f2f5}
-      .muted{fill:#a1aab5}
-    }</style>
+  </style>
 <rect class="bg" x="1" y="1" width="1198" height="385" rx="16"/>
 <rect class="accent" x="1" y="1" width="8" height="385" rx="4"/>
 <text class="title" x="38" y="53">Most used languages</text>
