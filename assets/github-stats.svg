@@ -1,18 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190" role="img" aria-label="GitHub profile statistics">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="GitHub profile statistics">
 <style>
-    .bg{fill:#ffffff;stroke:#d0d7de}.title{fill:#1f2328}
-    .muted{fill:#59636e}.value{fill:#1f2328}
+    text{font-family:Arial,Helvetica,sans-serif}
+    .bg{fill:#ffffff;stroke:#d0d7de}
+    .title{fill:#1f2328;font-size:27px;font-weight:700}
+    .muted{fill:#59636e;font-size:16px}
+    .value{fill:#1f2328;font-size:36px;font-weight:700}
+    .label{fill:#1f2328;font-size:19px;font-weight:600}
+    .accent{fill:#FF2323}
     @media(prefers-color-scheme:dark){
-      .bg{fill:#0d1117;stroke:#30363d}.title,.value{fill:#e6edf3}
-      .muted{fill:#8b949e}
-    }text{font-family:Arial,Helvetica,sans-serif}.title{font-size:19px;font-weight:700}.muted{font-size:12px}.value{font-size:25px;font-weight:700}</style>
-<rect class="bg" x="1" y="1" width="858" height="188" rx="10"/>
-<text class="title" x="28" y="38">GitHub overview</text>
-<g transform="translate(28 76)">
-<text class="muted" y="0">PUBLIC REPOSITORIES</text><text class="value" y="38">4</text>
-<text class="muted" x="210" y="0">STARS EARNED</text><text class="value" x="210" y="38">2</text>
-<text class="muted" x="420" y="0">FORKS</text><text class="value" x="420" y="38">0</text>
-<text class="muted" x="630" y="0">FOLLOWERS</text><text class="value" x="630" y="38">3</text>
+      .bg{fill:#0d1117;stroke:#30363d}
+      .title,.value,.label{fill:#f0f2f5}
+      .muted{fill:#a1aab5}
+    }</style>
+<rect class="bg" x="1" y="1" width="1198" height="248" rx="16"/>
+<rect class="accent" x="1" y="1" width="8" height="248" rx="4"/>
+<text class="title" x="38" y="54">GitHub overview</text>
+<rect class="accent" x="38" y="72" width="70" height="4" rx="2"/>
+<g transform="translate(38 122)">
+  <text class="muted" y="0">PUBLIC REPOSITORIES</text>
+  <text class="value" y="48">4</text>
+  <text class="muted" x="290" y="0">STARS EARNED</text>
+  <text class="value" x="290" y="48">2</text>
+  <text class="muted" x="580" y="0">FORKS</text>
+  <text class="value" x="580" y="48">0</text>
+  <text class="muted" x="870" y="0">FOLLOWERS</text>
+  <text class="value" x="870" y="48">3</text>
 </g>
-<text class="muted" x="28" y="164">Updated automatically from public GitHub data</text>
+<text class="muted" x="38" y="224">Automatically updated from public GitHub data</text>
 </svg>
