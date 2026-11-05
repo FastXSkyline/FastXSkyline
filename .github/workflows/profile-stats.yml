@@ -11,6 +11,10 @@ on:
       - ".github/workflows/profile-stats.yml"
       - "README.md"
 
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -35,5 +39,6 @@ jobs:
           git add assets/github-stats.svg assets/top-languages.svg
           if ! git diff --cached --quiet; then
             git commit -m "Update profile statistics"
+            git pull --rebase origin main
             git push
           fi
