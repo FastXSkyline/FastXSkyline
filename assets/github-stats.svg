@@ -14,7 +14,7 @@
 <rect class="accent" x="38" y="72" width="70" height="4" rx="2"/>
 <g transform="translate(38 122)">
   <text class="muted" y="0">PUBLIC REPOSITORIES</text>
-  <text class="value" y="48">4</text>
+  <text class="value" y="48">5</text>
   <text class="muted" x="290" y="0">STARS EARNED</text>
   <text class="value" x="290" y="48">2</text>
   <text class="muted" x="580" y="0">FORKS</text>

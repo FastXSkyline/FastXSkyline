@@ -12,16 +12,16 @@
 <rect class="accent" x="1" y="1" width="8" height="385" rx="4"/>
 <text class="title" x="38" y="53">Most used languages</text>
 <defs><clipPath id="language-bar"><rect x="38" y="93" width="1124" height="16" rx="8"/></clipPath></defs>
-<g clip-path="url(#language-bar)"><rect x="38.00" y="93" width="952.36" height="16" fill="#FF2323" /><rect x="990.36" y="93" width="144.77" height="16" fill="#E51F1F" /><rect x="1135.13" y="93" width="19.95" height="16" fill="#C91B1B" /><rect x="1155.07" y="93" width="6.37" height="16" fill="#AD1717" /><rect x="1161.44" y="93" width="1.00" height="16" fill="#922020" /><rect x="1161.66" y="93" width="1.00" height="16" fill="#7A2929" /><rect x="1161.84" y="93" width="1.00" height="16" fill="#653333" /></g>
+<g clip-path="url(#language-bar)"><rect x="38.00" y="93" width="956.94" height="16" fill="#FF2323" /><rect x="994.94" y="93" width="141.50" height="16" fill="#E51F1F" /><rect x="1136.45" y="93" width="18.97" height="16" fill="#C91B1B" /><rect x="1155.41" y="93" width="6.06" height="16" fill="#AD1717" /><rect x="1161.47" y="93" width="1.00" height="16" fill="#922020" /><rect x="1161.68" y="93" width="1.00" height="16" fill="#7A2929" /><rect x="1161.85" y="93" width="1.00" height="16" fill="#653333" /></g>
 <circle cx="48" cy="145" r="7" fill="#FF2323"/>
 <text class="label" x="70" y="151">TypeScript</text>
-<text class="muted" x="1158" y="151" text-anchor="end">84.7%</text><circle cx="48" cy="182" r="7" fill="#E51F1F"/>
+<text class="muted" x="1158" y="151" text-anchor="end">85.1%</text><circle cx="48" cy="182" r="7" fill="#E51F1F"/>
 <text class="label" x="70" y="188">CSS</text>
-<text class="muted" x="1158" y="188" text-anchor="end">12.9%</text><circle cx="48" cy="219" r="7" fill="#C91B1B"/>
+<text class="muted" x="1158" y="188" text-anchor="end">12.6%</text><circle cx="48" cy="219" r="7" fill="#C91B1B"/>
 <text class="label" x="70" y="225">JavaScript</text>
-<text class="muted" x="1158" y="225" text-anchor="end">1.8%</text><circle cx="48" cy="256" r="7" fill="#AD1717"/>
+<text class="muted" x="1158" y="225" text-anchor="end">1.7%</text><circle cx="48" cy="256" r="7" fill="#AD1717"/>
 <text class="label" x="70" y="262">Python</text>
-<text class="muted" x="1158" y="262" text-anchor="end">0.6%</text><circle cx="48" cy="293" r="7" fill="#922020"/>
+<text class="muted" x="1158" y="262" text-anchor="end">0.5%</text><circle cx="48" cy="293" r="7" fill="#922020"/>
 <text class="label" x="70" y="299">Batchfile</text>
 <text class="muted" x="1158" y="299" text-anchor="end">0.0%</text><circle cx="48" cy="330" r="7" fill="#7A2929"/>
 <text class="label" x="70" y="336">Shell</text>
